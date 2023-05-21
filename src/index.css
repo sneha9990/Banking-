@@ -213,7 +213,7 @@ body{
 @media screen and (max-width:780px) {
   .hero{
     position: absolute ;
-    top:750px ;
+    top:950px ;
     right:0px ;
     height:55% ;
     }
@@ -223,7 +223,7 @@ body{
   }
   .p{margin-left:100px ;}
   .cb{display:none ;}
-  .faq{margin-top:140px ;}
+  .faq{margin-top:160px ;}
   .img2{margin-top:-130px ;}
   .rect12{margin-top:320px ;}
   .heading{font-size:40px ;}

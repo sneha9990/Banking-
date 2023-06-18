@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Banking-/static/css/main.0eb3eb48.css",
+    "main.js": "/Banking-/static/js/main.5237ad14.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Banking-/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Hero Image.png": "/Banking-/static/media/Hero Image.82455ba853364ffff801.png",
+    "static/media/Businesses.png": "/Banking-/static/media/Businesses.ee39ede8a0d17917bfdd.png",
+    "static/media/Mini Section.png": "/Banking-/static/media/Mini Section.078e72cf907eb9496530.png",
+    "static/media/Card 1.png": "/Banking-/static/media/Card 1.b19a4010242650f1c317.png",
+    "static/media/Mask group.png": "/Banking-/static/media/Mask group.db5575ee513354c780e7.png",
+    "static/media/FAQ.png": "/Banking-/static/media/FAQ.44e38697af3431b79348.png",
+    "static/media/Newsletter.png": "/Banking-/static/media/Newsletter.21fa185ec0ba888a02c3.png",
+    "static/media/Star 2.png": "/Banking-/static/media/Star 2.ba79c3868a08ce59e9e2.png",
+    "static/media/Group 4.png": "/Banking-/static/media/Group 4.09a9daeea519aeb00d85.png",
+    "static/media/Group 6.png": "/Banking-/static/media/Group 6.2ea9b23d1eaa1a1a5a03.png",
+    "static/media/Group 5.png": "/Banking-/static/media/Group 5.e57afa48241af3dff309.png",
+    "static/media/Group 7.png": "/Banking-/static/media/Group 7.b38a3913590075ee5043.png",
+    "static/media/Group 16.png": "/Banking-/static/media/Group 16.19a1a66dc45090ec6af5.png",
+    "static/media/Group 17.png": "/Banking-/static/media/Group 17.90a279dd3496fda84df0.png",
+    "static/media/image 2.png": "/Banking-/static/media/image 2.c85f6d8df1a760b39939.png",
+    "index.html": "/Banking-/index.html",
+    "main.0eb3eb48.css.map": "/Banking-/static/css/main.0eb3eb48.css.map",
+    "main.5237ad14.js.map": "/Banking-/static/js/main.5237ad14.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Banking-/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eb3eb48.css",
+    "static/js/main.5237ad14.js"
+  ]
+}
